@@ -42,7 +42,7 @@ lib/
 ## Screenshot
 | Home | Search |
 |------|--------|
-| ![Home](screenshots/home.png) | ![Search](screenshots/search.png) |
+| ![Home](screenshots/home.jpeg) | ![Search](screenshots/search.jpeg) |
 
 ## Cara menjalankan
 ```
